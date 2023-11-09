@@ -1,0 +1,43 @@
+{
+  "global": {
+    "Base": {
+      "grey-100": {
+        "value": "#ebebeb",
+        "type": "color"
+      },
+      "grey-200": {
+        "value": "#e3e3e3",
+        "type": "color"
+      }
+    },
+    "Especificos": {
+      "color-background-btn-disable": {
+        "value": "{Base.grey-100}",
+        "type": "color"
+      },
+      "background-btn-default": {
+        "value": "{Base.grey-200}",
+        "type": "color"
+      }
+    },
+    "Elevations": {
+      "shadow-300": {
+        "value": {
+          "color": "#00000040",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
