@@ -2,8 +2,9 @@
   "global": {
     "Primary": {
       "green-800": {
-        "value": "#1bcf2d",
-        "type": "color"
+        "value": "#1bcf2e",
+        "type": "color",
+        "oldValue": "#1bcf2d"
       },
       "green-600": {
         "value": "#96f3a0",
